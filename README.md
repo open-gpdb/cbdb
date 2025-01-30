@@ -1,3 +1,5 @@
+# This is a fork of Cloudberry DB with very few modifications, which are not commitable to main repo. 
+
 # Apache Cloudberry (Incubating)
 
 <p align="center">
